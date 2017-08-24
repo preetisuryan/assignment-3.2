@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Coaching classes</title>
+<style>
+div.scroll{
+back-ground color:white;
+width:100px;
+overflow:scroll;
+}
+</style>
+</head>
+<body>
+<h1>Paramount coaching classes</h1>
+<p>we provide the bset coaching classes </p>
+<p>overflow:scroll</p>
+<div class="scroll">we are here for your bright future</div>
+<ul>
+<li>HOME<li>
+<li>ABOUT<li>
+<li>
+<a href="https://github.com/preetisuryan/assignment-3.2/new/master">contact us</a>
+</li>
+</ul>
+</body>
+</html>
